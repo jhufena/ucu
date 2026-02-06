@@ -1,5 +1,11 @@
-# G
+# [G](https://pub.epsilon.slu.se/1220/1/E_B_Kizito.pdf)
 Building a research division at a fledgling medical school like UCU is about shifting the focus from "collecting data" to "mapping the gradient of health." Since you have a meeting in 25 minutes, here is your one-liner and a structure designed to bridge clinical and public health using the **Ukubona** philosophy of systems-thinking and rehearsal.
+
+- [1](https://ucu.ac.ug/research-team/)
+- [2](https://fas.ucu.ac.ug/prof-elizabeth-balyejusa-kizito/)
+- [3](https://hfp-consulting.com/elizabeth-balyejusa/)
+- [4](https://scholar.google.com/citations?user=EMfJltEAAAAJ&hl=en)
+- [5](https://ug.linkedin.com/in/elizabeth-balyejusa-kizito-6902a666)
 
 ### **The One-Liner**
 
