@@ -475,3 +475,141 @@ Building on the NIH grant strategies we discussed earlier, here are tailored tip
 If you'd like, I can help refine a specific strategy for your kidney transplant work or search for active NOFOs matching your interests (e.g., involving Uganda). Just let me know!
 
 
+--- 
+
+```
+Elizabeth Namukombe Ekong - bnamukombe@ucu.ac.ug; +256817166
+
+Robert Basaza: we can share contacts: rbasaza@ucu.ac.ug, 256 701428474
+
+Looking for potential partners in the area of HIV Epidemiology, migration health, health systems research. 
+
+Francis Mulekya Bwambale, at UCU. 
+
++256772672355 (whatsup) 
+
+Research & Partnerships (thats Elizabeths title) —> follow in the lines of Kwame Nkrumah … I know the institution, the potential researchers, the directors 
+
+Elizabeth is also dean (the other Elizabeth)
+
+
+(Deparments)
+- Nursing
+- Public Health 
+- Mid-Wifery 
+
+The school lis portementaus 
+
+
+The director has triggered us to have a UCU domain in mapping the landscape of health of Uganda. Make this our edg (they’re all talking GIS)
+
+
+---
+
+#praise-god #help-self #then-others #nih #aging #kaganda-university-college #one-health-concept 
+
+- Boniface: PhD clinical epidemiology  (center for community based evidence based options): reproductive, maternal , and child health, and a consultancy firm, part-time UCU
+- Elizabeth (B. Kizito): Director for research, partnerships, and innovation at UCU: her role is administrative at this point, but Horticulture and plant breeding by way of training! Supporting linkages … How can a collaboration build up? How can you be supported in mutual interests following this meant .. nutrition? 
+- Robert K. Basaza: medical doctor, health economics masters in Kasese (york), doctorate in medical sciences from belgium. Health-systems , service delivery, health financing , big love for publications (like a cat & milk) ; how can we get into NIH and pull in colleagues? He is 64yo. Interested in app in Uganda . Also, Uganda just passed a law (frank assimmwe head of nephrology … transplant surgery law in new). Sickle Cell (acholi, busoga), kidney (assimmwe … nephreology)
+- Elizabeth  Ekong. The other Elizabeth. https://www.researchgate.net/profile/Elizabeth-Namukombe-Ekong Dean of Nursing and public health . Increasing visibility (Uganda and beyond) through research and publication. Also through more partners to do what we are passionate about and what we are about as faculty 
+- Francis Mulekya Bwambale. Public health specialist with 25 years experience in international development . research and training. Academia, UN, and civil society. Senior lecturer and lecturer at Kaganda University College of UCU. Head Department of Public Health at Public Health, Nursing, and Mid Wifery. Clinical epidemiologist + Health systems . Program and Grants Management. Monitoring and Evaluating of interventions in South Africa . US & Europe for Postdoctoral fellowship and PhD. Climate change migration and health and disease health prevention and global health. Also, emerging diseases like COVID 19 .. cross-border health . Uganda Wild Life authorities staff in rural places and to their families (first grant in university). 
+- Emmanuel Othieno. Othorpedic medicine, trauma, for last 25 years. Lectures part-time at UCU for four years. Center for community evidence for policy options (NGO). Focus: health financing, reproductive health, and communicable diseases. UNICEF, World Bank, etc. -> Climate change & mental health as a nexus— would be exciting to be a part of this initiative going forward . There are opportunities in the area of mental health — how feasible it is from Johns Hopkins in this area. (That was Francis, as identified as Samsung)
+
+
+- Building health informatics
+- Data science 
+- Epidemiology 
+- Clinical science 
+- Statistics 
+- Journal editor 
+
+```
+
+# 5. 
+### Fogarty International Center (FIC) Programs Overview
+
+The Fogarty International Center (FIC) at the National Institutes of Health (NIH) is dedicated to advancing global health through research, training, and capacity building, particularly in low- and middle-income countries (LMICs). FIC supports a wide range of extramural programs that focus on biomedical and behavioral research, health equity, and training the next generation of global health scientists. These programs often collaborate with other NIH institutes and emphasize partnerships between U.S. and international researchers.
+
+FIC's programs are primarily funded through grants, fellowships, and cooperative agreements. They complement broader NIH global health initiatives and prioritize areas like infectious diseases (e.g., HIV/AIDS), non-communicable diseases, environmental health, and implementation science. As of February 2026, FIC manages around 439 active research and training awards, with many involving U.S.-international collaborations.
+
+Below, I'll categorize and summarize key current FIC programs based on available information from NIH sources. Note that eligibility, deadlines, and announcements can change—always check the official FIC website ([www.fic.nih.gov/Programs](https://www.fic.nih.gov/Programs) or [www.fic.nih.gov/Funding](https://www.fic.nih.gov/Funding)) or NIH Grants Guide for the latest details. Programs are open to U.S. and LMIC investigators, with some requiring U.S. leadership.
+
+#### 1. **Research and Research Training Programs**
+These provide funding for collaborative research and build research capacity in LMICs. They are anchored to peer-reviewed grants and are long-term, flexible, and collaborative.
+
+- **HIV Research Training Program (formerly AIDS International Training and Research Program)**:
+  - **Description**: Supports training and research on HIV/AIDS and related conditions in LMICs. Focuses on building institutional capacity, epidemiology, prevention, and treatment.
+  - **Key Focus Areas**: HIV epidemiology, implementation science, co-infections (e.g., TB), and health systems strengthening.
+  - **Eligibility**: U.S. and LMIC institutions; early-career researchers, postdocs, and faculty. Requires mentorship and collaboration.
+  - **Funding/Announcements**: D43, U2R mechanisms; up to $500K/year for 5 years. Current NOFO: PAR-22-151 (expires 2025; check for renewals). Deadlines: Typically May/August annually.
+  - **Status**: Active; one of FIC's flagship programs since 1988.
+
+- **Global Infectious Disease Research Training Program**:
+  - **Description**: Trains scientists in LMICs on infectious diseases (e.g., malaria, emerging pathogens). Includes hands-on research and career development.
+  - **Key Focus Areas**: Tropical diseases, antimicrobial resistance, and pandemic preparedness.
+  - **Eligibility**: U.S. PIs with LMIC partners; pre- and post-doctoral trainees from LMICs.
+  - **Funding/Announcements**: D43 awards; ~$200K-$400K/year. NOFO: PAR-23-073. Deadlines: August annually.
+
+- **International Research in Infectious Diseases (IRID)**:
+  - **Description**: Funds research on infectious diseases in LMICs, emphasizing neglected tropical diseases and emerging threats.
+  - **Key Focus Areas**: Virology, bacteriology, parasitology, and vector-borne diseases.
+  - **Eligibility**: LMIC-based PIs; collaborations encouraged.
+  - **Funding/Announcements**: R01 equivalents; up to $125K/year direct costs. NOFO: PAR-23-130. Deadlines: June annually.
+
+- **International Cooperative Biodiversity Groups (ICBG)**:
+  - **Description**: Integrates drug discovery, biodiversity conservation, and economic development in LMICs.
+  - **Key Focus Areas**: Natural products research, ethnobotany, and sustainable development.
+  - **Eligibility**: Multi-institutional teams (U.S. + LMIC).
+  - **Funding/Announcements**: U19 cooperative agreements; multi-year funding. Program ongoing since 1992; check for active RFAs.
+
+#### 2. **Fellowships and Scholar Programs**
+These offer mentored training for early-career researchers, often 12 months in LMICs, with a focus on building a global health workforce.
+
+- **Fulbright-Fogarty Fellowships in Public Health**:
+  - **Description**: Partners with the Fulbright Program for research in public health and clinical settings in LMICs. Fellows conduct mentored projects at FIC-affiliated sites.
+  - **Key Focus Areas**: Public health challenges like maternal health, infectious diseases, and mental health.
+  - **Eligibility**: U.S. MD students (post-3rd year) or PhD candidates (post-master's). Must affiliate with LAUNCH sites (e.g., in Sub-Saharan Africa, Asia).
+  - **Funding/Announcements**: Covers stipend, travel, research costs. Application via Fulbright; 2026-2027 cycle opens ~July 2025. Orientation at NIH; program starts July 2026.
+  - **Status**: Inaugurated 2011; ~10 awards annually.
+
+- **Launching Future Leaders in Global Health (LAUNCH) Research Training Program** (includes HBNU, INSIGHT, and similar consortia):
+  - **Description**: 12-month fellowships for pre- and post-doctoral trainees in LMICs. Focuses on clinical, operational, and implementation research. Consortia like HBNU (Harvard-Boston-Northwestern-New Mexico) and INSIGHT provide sites in Africa, Asia, and Latin America.
+  - **Key Focus Areas**: Disease tracks (e.g., HIV, cancer), population tracks (e.g., maternal-child health), science tracks (e.g., epidemiology, data science).
+  - **Eligibility**: U.S. citizens/residents or LMIC nationals; MD/PhD students or postdocs. Requires mentorship.
+  - **Funding/Announcements**: D43-funded; stipends ~$50K + research support. HBNU/INSIGHT applications open annually (e.g., 2026-2027 cycle now open via consortia sites). Deadlines: Vary by consortium (e.g., March for HBNU).
+  - **Status**: Supports ~100 fellows yearly; emphasizes equity and LMIC leadership.
+
+- **Fogarty Global Health Training Program for Fellows and Scholars**:
+  - **Description**: Similar to LAUNCH; provides mentored research in LMICs for U.S. and LMIC trainees.
+  - **Key Focus Areas**: Broad global health topics, including environmental health and non-communicable diseases.
+  - **Eligibility**: Pre/post-docs from U.S./LMICs.
+  - **Funding/Announcements**: Via consortia; check FIC site for partners.
+
+#### 3. **Capacity Building and Specialized Programs**
+- **Mobile Health: Technology and Outcomes in Low and Middle-Income Countries (mHealth)**:
+  - **Description**: Funds innovative mHealth interventions for LMICs.
+  - **Key Focus Areas**: Digital health tools for disease prevention and management.
+  - **Eligibility**: U.S.-LMIC teams.
+  - **Funding/Announcements**: R21/R33; deadlines vary.
+
+- **Environmental and Occupational Health Research and Training**:
+  - **Description**: Builds capacity for research on environmental risks in LMICs.
+  - **Key Focus Areas**: Climate change, pollution, occupational hazards.
+  - **Eligibility**: LMIC institutions with U.S. partners.
+  - **Funding/Announcements**: D43; active.
+
+- **Brain Disorders in the Developing World**:
+  - **Description**: Research on neurological and mental health disorders.
+  - **Key Focus Areas**: Stroke, epilepsy, neurodevelopmental issues.
+  - **Eligibility**: Global teams.
+  - **Funding/Announcements**: R01/R21.
+
+#### Additional Notes
+- **How to Apply**: Use NIH's eRA Commons for submissions. Foreign applicants need SAM.gov registration. Contact FIC program officers for guidance.
+- **Resources**: 
+  - FIC Funding Page: [www.fic.nih.gov/Funding](https://www.fic.nih.gov/Funding) – Searchable database.
+  - NIH Global Health: [www.fic.nih.gov/About/Staff/Pages/Training-Research.aspx](https://www.fic.nih.gov/About/Staff/Pages/Training-Research.aspx) for DITR details.
+  - Subscribe to FIC's Global Health Matters newsletter for updates.
+- **Relevance to Uganda**: Many programs have sites in East Africa (e.g., Uganda for HIV, infectious diseases). Collaborations with U.S. institutions like Johns Hopkins are common.
+
+If you'd like details on a specific program or help with application strategies (e.g., for kidney research), let me know!
